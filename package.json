@@ -1,6 +1,6 @@
 {
   "name": "richpresence",
-  "version": "0.1.1",
+  "version": "1.0.0",
   "description": "Template code for Rich Presence in JavaScript",
   "main": "app.js",
   "dependencies": {
