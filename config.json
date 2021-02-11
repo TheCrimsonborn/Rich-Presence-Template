@@ -1,15 +1,13 @@
 {
-    "Client_Id": "804885982070439936",
+    "Client_Id": "809196371991068743",
 
     "Rich_Presence":{
-        "details": "Creepily watching people :)",
-        "state": "Chilling",
-        "username": "∞OfficialEntity∞",
-        "file_username": "∞OfficialEntity∞profile",
-        "bannername": "Rich Presence",
-        "file_bannername": "background",
-        "maxpartysize": 100,
-        "countdown_start": 3600,
+        "details": "İş Adamı",
+        "state": "Piçi Soyuyor",
+        "username": "∞The Crimsonborn∞",
+        "file_username": "∞The Crimsonborn∞profile",
+        "bannername": "The Crims",
+        "file_bannername": "crims",
         "Refresh": true,
         "Refresh_time": 15
     },
