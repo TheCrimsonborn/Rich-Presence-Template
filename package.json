@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "description": "Template code for Rich Presence in JavaScript",
   "engines": {
-    "node": "14.15.4"
+    "node": "14.15.4",
+    "npm": "6.14.8"
   },
   "main": "app.js",
   "dependencies": {
@@ -12,11 +13,11 @@
   },
   "devDependencies": {},
   "scripts": {
-    "test": "node app.js"
+    "start": "node app.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/IndyV/Rich-Presence-Template.git"
+    "url": "git+https://github.com/TheCrimsonborn/Rich-Presence-Template.git"
   },
   "keywords": [
     "RPC"
@@ -24,7 +25,7 @@
   "author": "IndyV",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/IndyV/Rich-Presence-Template/issues"
+    "url": "https://github.com/TheCrimsonborn/Rich-Presence-Template/issues"
   },
-  "homepage": "https://github.com/IndyV/Rich-Presence-Template#readme"
+  "homepage": "https://github.com/TheCrimsonborn/Rich-Presence-Template#readme"
 }
